@@ -1,0 +1,20 @@
+PublishSettings for Pop Ballons
+
+pw: Hollie21
+confirm pw: Hollie21
+location for Keystore in game file folder: PopBallons_v1.keystore
+
+Create newKey
+Alias : PopBalloon
+pw: Hollie21
+Val years: 50
+First name: John Ozier
+Org unit: unit
+Organization: OzmosisDev
+City: Milwaukee
+State: Wisconsin
+country code: US
+
+ozmosisdev.comxa.com
+
+You uploaded an APK that was signed in debug mode. You need to sign your APK in release mode
